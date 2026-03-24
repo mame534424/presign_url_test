@@ -14,8 +14,6 @@ import software.amazon.awssdk.services.s3.presigner.model.PresignedPutObjectRequ
 import software.amazon.awssdk.services.s3.presigner.S3Presigner;
 import software.amazon.awssdk.services.s3.model.*;
 
-import org.springframework.beans.factory.annotation.Autowired;
-
 
 import java.util.UUID;
 import java.time.Duration;
